@@ -38,7 +38,7 @@
 ---
 
 ## *Dashboard Screenshots*
-- ![Walmart Dashboard](dashboard.png)
+- ![Walmart Dashboard](dashboard-image.png)
 
 ---
 
